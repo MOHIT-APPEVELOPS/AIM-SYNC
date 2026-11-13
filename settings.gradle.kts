@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "AimSyncPro"
+rootProject.name = "AIM-SYNC"
 include(":app")
